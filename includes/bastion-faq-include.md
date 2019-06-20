@@ -47,6 +47,7 @@ In order to make a connection, the following roles are required:
 * Reader role on the virtual machine
 * Reader role on the NIC with private IP of the virtual machine
 * Reader role on the Azure Bastion resource
+* Reader role on the NIC with public IP Azure Bastion resource
 
 ### <a name="previewbill"></a>Pricing - Will I be billed for participating in the preview?
 
